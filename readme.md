@@ -11,7 +11,7 @@ This game is built using :
 - p5.js (Processing)
 
 ## Screenshots
-![Screenshot_1](https://raw.githubusercontent.com/handyaputra/GoFlyIronman/main/SS%201.png)
-![Screenshot_2](https://raw.githubusercontent.com/handyaputra/GoFlyIronman/main/SS%202.png)
-![Screenshot_3](https://raw.githubusercontent.com/handyaputra/GoFlyIronman/main/SS%203.png)
-![Screenshot_4](https://raw.githubusercontent.com/handyaputra/GoFlyIronman/main/SS%204.png)
+![Screenshot_1](https://raw.githubusercontent.com/handyaputra/GoFlyIronman/master/SS%201.png)
+![Screenshot_2](https://raw.githubusercontent.com/handyaputra/GoFlyIronman/master/SS%202.png)
+![Screenshot_3](https://raw.githubusercontent.com/handyaputra/GoFlyIronman/master/SS%203.png)
+![Screenshot_4](https://raw.githubusercontent.com/handyaputra/GoFlyIronman/master/SS%204.png)
